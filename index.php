@@ -40,7 +40,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <!--<a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" alt=""></a>-->
+                    <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" alt=""></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -325,15 +325,15 @@
                                 <div class="footer-title-line"></div>
 
                                 <img src="assets/img/footer-logo.png" alt="" class="wow pulse" data-wow-delay="1s">
-                                <p>Lorem ipsum dolor cum necessitatibus su quisquam molestias. Vel unde, blanditiis.</p>
+                                <p></p>
                                 <ul class="footer-adress">
-                                    <li><i class="pe-7s-map-marker strong"> </i> 9089 your adress her</li>
-                                    <li><i class="pe-7s-mail strong"> </i> email@yourcompany.com</li>
-                                    <li><i class="pe-7s-call strong"> </i> +1 908 967 5906</li>
+                                    <li><i class="pe-7s-map-marker strong"> </i> Chennai, India</li>
+                                    <li><i class="pe-7s-mail strong"> </i> mannaiadvertising@gmail.com</li>
+                                    <li><i class="pe-7s-call strong"> </i> +91 84283 57459</li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6 wow fadeInRight animated">
+                        <!--<div class="col-md-3 col-sm-6 wow fadeInRight animated">
                             <div class="single-footer">
                                 <h4>Quick links </h4>
                                 <div class="footer-title-line"></div>
@@ -346,7 +346,7 @@
                                     <li><a href="faq.html">Terms </a>  </li> 
                                 </ul>
                             </div>
-                        </div>
+                        </div>-->
                         <div class="col-md-3 col-sm-6 wow fadeInRight animated">
                             <div class="single-footer">
                                 <h4>Last News</h4>
