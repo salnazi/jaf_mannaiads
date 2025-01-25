@@ -2479,7 +2479,7 @@ count-area
 .item-entry a {
     color: #000;
 }
-.item-entry a:hover ,.item-entry a:focus {
+.item-entry a:hover .item-entry a:focus {
     color: #999696;
 }
 .search-form .search-toggle {
@@ -2490,7 +2490,7 @@ count-area
     padding: 15px;
 }
 .search-form .form-inline .form-group { 
-    width: 1135px;
+    width: 1035px;
     text-align: left;
     letter-spacing: 0.5px;
 }
